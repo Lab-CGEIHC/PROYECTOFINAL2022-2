@@ -1,0 +1,25 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl Main.mat
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Blender\\Textures\\Leather003_2K-JPG\\Leather003_2K_Normal.jpg
+map_Kd D:\\Blender\\Textures\\Leather003_2K-JPG\\Leather003_2K_Color.jpg
+map_Ns D:\\Blender\\Textures\\Leather003_2K-JPG\\Leather003_2K_Roughness.jpg
+
+newmtl Sofa.stand
+Ns 225.000000
+Ka 0.409449 0.409449 0.409449
+Kd 0.053591 0.032991 0.016838
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1

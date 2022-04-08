@@ -1,0 +1,25 @@
+# Blender 3.1.0 MTL File: 'None'
+# www.blender.org
+
+newmtl Main.mat
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Leather003_2K_Color.jpg
+map_Ns  Leather003_2K_Roughness.jpg
+map_Bump  -bm 1.000000 Leather003_2K_Normal.jpg
+
+newmtl Sofa.stand
+Ns 250.000000
+Ka 0.409449 0.409449 0.409449
+Kd 0.053591 0.032991 0.016838
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
